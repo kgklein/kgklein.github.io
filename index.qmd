@@ -27,25 +27,25 @@ Lunar and Planetary Laboratory
 
 ::: {.column width="65%"}
 
-I am a space plasma physicist studying how energy is transferred, redistributed, and dissipated in weakly collisional plasmas. My research focuses on the solar wind and other space and astrophysical environments.
+I am a space plasma physicist studying how energy is injected into, transferred through, and dissipated in weakly collisional plasmas. My research focuses on the solar wind as a useful laboratory for and other, more distant, space and astrophysical environments.
 
-I combine analytical theory, numerical modeling, and spacecraft observations to investigate plasma turbulence, kinetic instabilities, and wave–particle interactions.
+My group's work combines analytical theory, numerical modeling, and spacecraft observations to investigate the relationships between plasma turbulence, kinetic instabilities, and wave–particle interactions.
 
-I am Deputy Principal Investigator of NASA's **HelioSwarm** mission and Deputy Principal Investigator for the **SWEAP** investigation on **Parker Solar Probe**.
+I am Deputy Principal Investigator of NASA's [HelioSwarm](https://science.nasa.gov/mission/helioswarm/) mission and Deputy Principal Investigator for the [SWEAP](https://sweap.cfa.harvard.edu/) investigation on [Parker Solar Probe](https://parkersolarprobe.jhuapl.edu/).
 
 ## Research
 
 My research addresses three interconnected problems:
 
-- **Turbulence and plasma heating:** How does turbulent energy cascade through scales and ultimately heat particles?
-- **Kinetic plasma physics:** How do nonthermal particle distributions drive instabilities and exchange energy with plasma waves?
-- **Multi-spacecraft measurements:** How can simultaneous observations reconstruct the three-dimensional structure of turbulent plasmas?
+- **Turbulence and plasma heating:** How does turbulent energy cascade through scales and ultimately heat particles in environments with few collisionals?
+- **Kinetic plasma physics:** How do nonthermal particle distributions drive instabilities, exchanging energy with plasma waves?
+- **Multi-spacecraft measurements:** How can simultaneous observations reconstruct the three-dimensional, dynamic structure of turbulent plasmas?
 
-[Explore my research →](research.qmd)
+[More research details here→](research.qmd)
 
 ## Publications and Software
 
-My publications and open-source research tools are available here:
+My publications and open-source research tools are available below:
 
 [Publications](publications.qmd) · [Software](software.qmd)
 
