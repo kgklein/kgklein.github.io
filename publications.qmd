@@ -6,9 +6,12 @@ For current records, see [Science Explorer (SciX)](https://scixplorer.org/).
 
 [Download my CV (PDF)](documents/Klein_CV.pdf)
 
+## Selected publications
+
+{{< include bibliography/selected_publications_generated.md >}}
+
 ## Refereed journal publications
 
-The bibliography below is generated from SciX/ADS metadata. Preprints without
-published counterparts are reviewed separately before inclusion.
+The bibliography below is generated from SciX/ADS metadata.
 
 {{< include bibliography/publications_generated.md >}}

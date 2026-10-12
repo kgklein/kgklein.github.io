@@ -1,0 +1,57 @@
+{
+  "configured": 10,
+  "matched": [
+    {
+      "id": "klein-2026-ion-scale-wave-emission",
+      "bibcode": "2026GeoRL..5318809K",
+      "title": "Ion-Scale Wave Emission and Absorption for Non-Maxwellian Velocity Distributions in the Inner Heliosphere"
+    },
+    {
+      "id": "martinovic-2026-oblique-drift",
+      "bibcode": "2026PhRvL.136y5201M",
+      "title": "How the Oblique Drift Instability Alters Solar Wind Heating and Constrains the Distribution of Solar Wind Observations"
+    },
+    {
+      "id": "klein-2025-dielectric-response",
+      "bibcode": "2025PhPl...32i2104K",
+      "title": "The dielectric response of plasmas with arbitrary gyrotropic velocity distributions"
+    },
+    {
+      "id": "klein-2023-helioswarm",
+      "bibcode": "2023SSRv..219...74K",
+      "title": "HelioSwarm: A Multipoint, Multiscale Mission to Characterize Turbulence"
+    },
+    {
+      "id": "verscharen-2019-multiscale-solar-wind",
+      "bibcode": "2019LRSP...16....5V",
+      "title": "The multi-scale nature of the solar wind"
+    },
+    {
+      "id": "kasper-klein-2019-preferential-heating",
+      "bibcode": "2019ApJ...877L..35K",
+      "title": "Strong Preferential Ion Heating is Limited to within the Solar Alfvén Surface"
+    },
+    {
+      "id": "chen-klein-howes-2019-electron-landau",
+      "bibcode": "2019NatCo..10..740C",
+      "title": "Evidence for electron Landau damping in space plasma turbulence"
+    },
+    {
+      "id": "verscharen-2018-alps",
+      "bibcode": "2018JPlPh..84d9003V",
+      "title": "ALPS: the Arbitrary Linear Plasma Solver"
+    },
+    {
+      "id": "klein-2018-majority-instabilities",
+      "bibcode": "2018PhRvL.120t5102K",
+      "title": "Majority of Solar Wind Intervals Support Ion-Driven Instabilities"
+    },
+    {
+      "id": "klein-2017-field-particle-correlations",
+      "bibcode": "2017JPlPh..83d5301K",
+      "title": "Diagnosing collisionless energy transfer using field-particle correlations: gyrokinetic turbulence"
+    }
+  ],
+  "unmatched": [],
+  "ambiguous": []
+}
