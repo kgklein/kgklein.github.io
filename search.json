@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "UNDER CONSTRUCTION\nFor an up-to-date list of papers and citation information, see my NASA ADS bibliography and ORCID profile."
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "Selected publications",
+    "text": "Selected publications\nThe initial version of this page deliberately links to external bibliographic records rather than reproducing an incomplete list. A curated selection of representative papers, with titles, coauthors, publication dates, and DOIs, will be added next."
+  },
+  {
+    "objectID": "publications.html#complete-bibliography",
+    "href": "publications.html#complete-bibliography",
+    "title": "Publications",
+    "section": "Complete bibliography",
+    "text": "Complete bibliography\nPlanned enhancement: Generate the complete publication list from an exported NASA ADS BibTeX file. This can provide reverse-chronological sorting and consistent formatting without maintaining every entry by hand."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "UNDER CONSTRUCTION\nMy research investigates the physical processes that govern energy transfer and particle energization in weakly collisional plasmas. The solar wind provides an extraordinary laboratory for this work: spacecraft observations can be compared directly against predictions from plasma theory and numerical simulations."
+  },
+  {
+    "objectID": "research.html#turbulence-and-plasma-heating",
+    "href": "research.html#turbulence-and-plasma-heating",
+    "title": "Research",
+    "section": "Turbulence and plasma heating",
+    "text": "Turbulence and plasma heating\nHow does turbulent energy move across scales, and which processes ultimately heat particles? We study turbulent cascades, intermittency, kinetic-scale fluctuations, and the connections between spatial structure and energy dissipation."
+  },
+  {
+    "objectID": "research.html#kinetic-plasma-physics",
+    "href": "research.html#kinetic-plasma-physics",
+    "title": "Research",
+    "section": "Kinetic plasma physics",
+    "text": "Kinetic plasma physics\nSpace plasmas often depart strongly from local thermodynamic equilibrium. We investigate how non-Maxwellian particle velocity distributions influence wave propagation, kinetic instabilities, and wave–particle energy exchange. Numerical dispersion tools and spacecraft measurements provide complementary constraints."
+  },
+  {
+    "objectID": "research.html#multi-spacecraft-measurements-and-heliophysics-missions",
+    "href": "research.html#multi-spacecraft-measurements-and-heliophysics-missions",
+    "title": "Research",
+    "section": "Multi-spacecraft measurements and heliophysics missions",
+    "text": "Multi-spacecraft measurements and heliophysics missions\nMulti-point observations open new ways to distinguish spatial from temporal variability, measure turbulent structure, and reconstruct plasma gradients. I am Deputy Principal Investigator of NASA’s HelioSwarm mission and contribute to the Parker Solar Probe SWEAP investigation.\nPlanned additions: a mission image, one representative turbulence figure, and links to selected project papers."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Kristopher G. Klein",
+    "section": "Research",
+    "text": "Research\nMy research addresses three interconnected problems:\n\nTurbulence and plasma heating: How does turbulent energy cascade through scales and ultimately heat particles?\nKinetic plasma physics: How do nonthermal particle distributions drive instabilities and exchange energy with plasma waves?\nMulti-spacecraft measurements: How can simultaneous observations reconstruct the three-dimensional structure of turbulent plasmas?\n\nExplore my research →"
+  },
+  {
+    "objectID": "index.html#publications-and-software",
+    "href": "index.html#publications-and-software",
+    "title": "Kristopher G. Klein",
+    "section": "Publications and Software",
+    "text": "Publications and Software\nMy publications and open-source research tools are available here:\nPublications · Software"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "I develop and contribute to open-source tools for linear kinetic plasma physics, turbulence analysis, and multi-spacecraft measurements."
+  },
+  {
+    "objectID": "software.html#plume",
+    "href": "software.html#plume",
+    "title": "Software",
+    "section": "PLUME",
+    "text": "PLUME\nPlasma in a Linear Uniform Magnetized Environment is a numerical solver for the Vlasov–Maxwell dispersion relation in hot magnetized plasmas. It supports multiple drifting bi-Maxwellian plasma components and arbitrary wave propagation directions.\nSource code and documentation · Software DOI"
+  },
+  {
+    "objectID": "software.html#alps",
+    "href": "software.html#alps",
+    "title": "Software",
+    "section": "ALPS",
+    "text": "ALPS\nArbitrary Linear Plasma Solver is an open-source dispersion solver designed to investigate wave behavior and kinetic stability for general gyrotropic velocity distributions.\nSource code and documentation · Software DOI"
+  },
+  {
+    "objectID": "software.html#helioswarm-observatory",
+    "href": "software.html#helioswarm-observatory",
+    "title": "Software",
+    "section": "HelioSwarm Observatory",
+    "text": "HelioSwarm Observatory\nTools for generating, analyzing, visualizing, and reproducing synthetic multi-spacecraft plasma measurements in preparation for HelioSwarm science.\nDocumentation"
+  },
+  {
+    "objectID": "software.html#additional-public-repositories",
+    "href": "software.html#additional-public-repositories",
+    "title": "Software",
+    "section": "Additional public repositories",
+    "text": "Additional public repositories\nUNDER CONSTRUCTION"
+  }
+]
