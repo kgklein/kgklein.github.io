@@ -1,0 +1,575 @@
+[
+  {
+    "bibcode": "2026arXiv260909036S",
+    "author": [
+      "Schröder, D. L.",
+      "Lazar, M.",
+      "Fichtner, H.",
+      "Klein, K. G.",
+      "Verscharen, D."
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.2609.09036"
+    ],
+    "eid": "arXiv:2609.09036",
+    "identifier": [
+      "arXiv:2609.09036",
+      "10.48550/arXiv.2609.09036",
+      "2026arXiv260909036S"
+    ],
+    "page": [
+      "arXiv:2609.09036"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-09-00",
+    "title": [
+      "On the modeling of oblique firehose instabilities in regularized Kappa plasmas using ALPS"
+    ],
+    "year": "2026",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2026arXiv260910422K",
+    "author": [
+      "Klein, Kristopher G",
+      "Verscharen, Daniel",
+      "Martinovic, Mihailo",
+      "Niranjana",
+      "Rahmati, Ali",
+      "Livi, Roberto",
+      "Larson, Davin",
+      "Stevens, Michael"
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.2609.10422"
+    ],
+    "eid": "arXiv:2609.10422",
+    "identifier": [
+      "10.48550/arXiv.2609.10422",
+      "arXiv:2609.10422",
+      "2026arXiv260910422K"
+    ],
+    "page": [
+      "arXiv:2609.10422"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-09-00",
+    "title": [
+      "Wave Emission and Absorption in a Near-Sun Proton-Cyclotron Wave Storm"
+    ],
+    "year": "2026",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2026arXiv260614439G",
+    "author": [
+      "Guo, Xudong",
+      "Xie, Huasheng",
+      "Klein, Kristopher G.",
+      "Verscharen, D.",
+      "Shi, Chen",
+      "Zhao, Jinsong"
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.2606.14439"
+    ],
+    "eid": "arXiv:2606.14439",
+    "identifier": [
+      "2026arXiv260614439G",
+      "arXiv:2606.14439",
+      "10.48550/arXiv.2606.14439"
+    ],
+    "page": [
+      "arXiv:2606.14439"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2026-06-00",
+    "title": [
+      "Plasma Instabilities in Arbitrary Distributions: Comparison between ALPS and BO"
+    ],
+    "year": "2026",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2023esoar.77367409R",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ],
+    "author": [
+      "Roberts, Owen Wyn",
+      "Voros, Zoltán",
+      "Torkar, Klaus",
+      "Stawarz, Julia E.",
+      "Bandyopadhyay, Riddhi",
+      "Gershman, Daniel J.",
+      "Narita, Yasuhito",
+      "Kieokaew, Rungployphan",
+      "Lavraud, Benoit",
+      "Klein, Kristopher Gregory",
+      "Yang, Yan",
+      "Nakamura, Rumi",
+      "Chasapis, Alexandros",
+      "Matthaeus, William H."
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.22541/essoar.168167247.77367409/v1"
+    ],
+    "eid": "essoar.168167247",
+    "identifier": [
+      "10.22541/essoar.168167247.77367409/v1",
+      "2023esoar.77367409R"
+    ],
+    "page": [
+      "essoar.168167247"
+    ],
+    "pub": "ESS Open Archive eprints",
+    "pubdate": "2023-04-00",
+    "title": [
+      "Estimation of the error on the calculation of the pressure-strain term: application in the terrestrial magnetosphere"
+    ],
+    "volume": "773",
+    "year": "2023"
+  },
+  {
+    "bibcode": "2022arXiv221112676M",
+    "author": [
+      "Matthaeus, W. H.",
+      "Adhikari, S.",
+      "Bandyopadhyay, R.",
+      "Brown, M. R.",
+      "Bruno, R.",
+      "Borovsky, J.",
+      "Carbone, V.",
+      "Caprioli, D.",
+      "Chasapis, A.",
+      "Chhiber, R.",
+      "Dasso, S.",
+      "Dmitruk, P.",
+      "Del Zanna, L.",
+      "Dmitruk, P. A.",
+      "Franci, Luca",
+      "Gary, S. P.",
+      "Goldstein, M. L.",
+      "Gomez, D.",
+      "Greco, A.",
+      "Horbury, T. S.",
+      "Ji, Hantao",
+      "Kasper, J. C.",
+      "Klein, K. G.",
+      "Landi, S.",
+      "Li, Hui",
+      "Malara, F.",
+      "Maruca, B. A.",
+      "Mininni, P.",
+      "Oughton, Sean",
+      "Papini, E.",
+      "Parashar, T. N.",
+      "Pecora, F.",
+      "Petrosyan, Arakel",
+      "Pouquet, Annick",
+      "Retino, A.",
+      "Roberts, Owen",
+      "Ruffolo, David",
+      "Servidio, Sergio",
+      "Spence, Harlan",
+      "Smith, C. W.",
+      "Stawarz, J. E.",
+      "TenBarge, Jason",
+      "Vasquez, B. J.",
+      "Vaivads, Andris",
+      "Valentini, F.",
+      "Velli, Marco",
+      "Verdini, A.",
+      "Verscharen, Daniel",
+      "Whittlesey, Phyllis",
+      "Wicks, Robert",
+      "Yang, Y.",
+      "Zimbardo, G."
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.2211.12676"
+    ],
+    "eid": "arXiv:2211.12676",
+    "identifier": [
+      "2022arXiv221112676M",
+      "arXiv:2211.12676",
+      "10.48550/arXiv.2211.12676"
+    ],
+    "page": [
+      "arXiv:2211.12676"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2022-11-00",
+    "title": [
+      "The essential role of multi-point measurements in investigations of turbulence, three-dimensional structure, and dynamics: the solar wind beyond single scale and the Taylor Hypothesis"
+    ],
+    "year": "2022",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2021esoar.10508651L",
+    "author": [
+      "Livi, Roberto",
+      "Larson, Davin E.",
+      "Kasper, Justin C.",
+      "Abiad, Robert",
+      "Case, Anthony W.",
+      "Klein, Kristopher G.",
+      "Curtis, David W.",
+      "Dalton, Gregory",
+      "Stevens, Michael",
+      "Korreck, Kelly E.",
+      "Ho, George",
+      "Robinson, Miles",
+      "Tiu, Chris",
+      "Whittlesey, Phyllis L.",
+      "Verniero, J. L.",
+      "Halekas, Jasper",
+      "Mcfadden, James",
+      "Marckwordt, Mario",
+      "Slagle, Amanda",
+      "Abatcha, Mamuda",
+      "Rahmati, Ali"
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.1002/essoar.10508651.1"
+    ],
+    "eid": "essoar.10508651",
+    "identifier": [
+      "2021esoar.10508651L",
+      "10.1002/essoar.10508651.1"
+    ],
+    "page": [
+      "essoar.10508651"
+    ],
+    "pub": "ESS Open Archive eprints",
+    "pubdate": "2021-11-00",
+    "title": [
+      "The Solar Probe ANalyzer -Ions on Parker Solar Probe"
+    ],
+    "volume": "105",
+    "year": "2021",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2019arXiv190804192C",
+    "author": [
+      "Chen, Li-Jen",
+      "Bessho, Naoki",
+      "Bookbinder, Jay A.",
+      "Caprioli, Damiano",
+      "Goldstein, Melvin",
+      "Ji, Hantao",
+      "Jian, Lan K.",
+      "Karimabadi, Homa",
+      "Khotyaintsev, Yuri",
+      "Klein, Kristopher G.",
+      "Lavraud, Benoit",
+      "Matthaeus, William",
+      "Moore, Thomas E.",
+      "Retino, Alessandro",
+      "Roberts, Owen W.",
+      "Roytershteyn, Vadim",
+      "Schiff, Conrad",
+      "Spence, Harlan",
+      "Stawarz, Julia",
+      "TenBarge, Jason",
+      "Wang, Shan"
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.1908.04192"
+    ],
+    "eid": "arXiv:1908.04192",
+    "identifier": [
+      "2019arXiv190804192C",
+      "arXiv:1908.04192",
+      "10.48550/arXiv.1908.04192"
+    ],
+    "page": [
+      "arXiv:1908.04192"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-08-00",
+    "title": [
+      "Challenges and the next transformative steps in understanding plasma turbulence from the perspective of multi-spacecraft measurements"
+    ],
+    "year": "2019",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2019arXiv190305740K",
+    "author": [
+      "Klein, K. G.",
+      "Alexandrova, O.",
+      "Bookbinder, J.",
+      "Caprioli, D.",
+      "Case, A. W.",
+      "Chandran, B. D. G.",
+      "Chen, L. J.",
+      "Horbury, T.",
+      "Jian, L.",
+      "Kasper, J. C.",
+      "Le Contel, O.",
+      "Maruca, B. A.",
+      "Matthaeus, W.",
+      "Retino, A.",
+      "Roberts, O.",
+      "Schekochihin, A.",
+      "Skoug, R.",
+      "Smith, C.",
+      "Steinberg, J.",
+      "Spence, H.",
+      "Vasquez, B.",
+      "TenBarge, J. M.",
+      "Verscharen, D.",
+      "Whittlesey, P."
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.1903.05740"
+    ],
+    "eid": "arXiv:1903.05740",
+    "identifier": [
+      "2019arXiv190305740K",
+      "10.48550/arXiv.1903.05740",
+      "arXiv:1903.05740"
+    ],
+    "page": [
+      "arXiv:1903.05740"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-03-00",
+    "title": [
+      "[Plasma 2020 Decadal] Multipoint Measurements of the Solar Wind: A Proposed Advance for Studying Magnetized Turbulence"
+    ],
+    "year": "2019",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2019arXiv190306890M",
+    "author": [
+      "Matthaeus, W. H.",
+      "Bandyopadhyay, R.",
+      "Brown, M. R.",
+      "Borovsky, J.",
+      "Carbone, V.",
+      "Caprioli, D.",
+      "Chasapis, A.",
+      "Chhiber, R.",
+      "Dasso, S.",
+      "Dmitruk, P.",
+      "Del Zanna, L.",
+      "Dmitruk, P. A.",
+      "Franci, Luca",
+      "Gary, S. P.",
+      "Goldstein, M. L.",
+      "Gomez, D.",
+      "Greco, A.",
+      "Horbury, T. S.",
+      "Ji, Hantao",
+      "Kasper, J. C.",
+      "Klein, K. G.",
+      "Landi, S.",
+      "Li, Hui",
+      "Malara, F.",
+      "Maruca, B. A.",
+      "Mininni, P.",
+      "Oughton, Sean",
+      "Papini, E.",
+      "Parashar, T. N.",
+      "Petrosyan, Arakel",
+      "Pouquet, Annick",
+      "Retino, A.",
+      "Roberts, Owen",
+      "Ruffolo, David",
+      "Servidio, Sergio",
+      "Spence, Harlan",
+      "Smith, C. W.",
+      "Stawarz, J. E.",
+      "TenBarge, Jason",
+      "Vasquez1, B. J.",
+      "Vaivads, Andris",
+      "Valentini, F.",
+      "Velli, Marco",
+      "Verdini, A.",
+      "Verscharen, Daniel",
+      "Whittlesey, Phyllis",
+      "Wicks, Robert",
+      "Bruno, R.",
+      "Zimbardo, G."
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.1903.06890"
+    ],
+    "eid": "arXiv:1903.06890",
+    "identifier": [
+      "10.48550/arXiv.1903.06890",
+      "2019arXiv190306890M",
+      "arXiv:1903.06890"
+    ],
+    "page": [
+      "arXiv:1903.06890"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-03-00",
+    "title": [
+      "[Plasma 2020 Decadal] The essential role of multi-point measurements in turbulence investigations: the solar wind beyond single scale and beyond the Taylor Hypothesis"
+    ],
+    "year": "2019",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2019arXiv190305710T",
+    "author": [
+      "TenBarge, J. M.",
+      "Alexandrova, O.",
+      "Boldyrev, S.",
+      "Califano, F.",
+      "Cerri, S. S.",
+      "Chen, C. H. K.",
+      "Howes, G. G.",
+      "Horbury, T.",
+      "Isenberg, P. A.",
+      "Ji, H.",
+      "Klein, K. G.",
+      "Krafft, C.",
+      "Kunz, M.",
+      "Loureiro, N. F.",
+      "Mallet, A.",
+      "Maruca, B. A.",
+      "Matthaeus, W. H.",
+      "Meyrand, R.",
+      "Quataert, E.",
+      "Perez, J. C.",
+      "Roberts, O. W.",
+      "Sahraoui, F.",
+      "Salem, C. S.",
+      "Schekochihin, A. A.",
+      "Spence, H.",
+      "Squire, J.",
+      "Told, D.",
+      "Verscharen, D.",
+      "Wicks, R. T."
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.1903.05710"
+    ],
+    "eid": "arXiv:1903.05710",
+    "identifier": [
+      "2019arXiv190305710T",
+      "arXiv:1903.05710",
+      "10.48550/arXiv.1903.05710"
+    ],
+    "page": [
+      "arXiv:1903.05710"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2019-03-00",
+    "title": [
+      "[Plasma 2020 Decadal] Disentangling the Spatiotemporal Structure of Turbulence Using Multi-Spacecraft Data"
+    ],
+    "year": "2019",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  },
+  {
+    "bibcode": "2014arXiv1404.2913H",
+    "author": [
+      "Howes, Gregory G.",
+      "Klein, Kristopher G.",
+      "TenBarge, Jason M."
+    ],
+    "doctype": "eprint",
+    "doi": [
+      "10.48550/arXiv.1404.2913"
+    ],
+    "eid": "arXiv:1404.2913",
+    "identifier": [
+      "10.48550/arXiv.1404.2913",
+      "arXiv:1404.2913",
+      "2014arXiv1404.2913H"
+    ],
+    "page": [
+      "arXiv:1404.2913"
+    ],
+    "pub": "arXiv e-prints",
+    "pubdate": "2014-04-00",
+    "title": [
+      "The Quasilinear Premise for the Modeling of Plasma Turbulence"
+    ],
+    "year": "2014",
+    "property": [
+      "ARTICLE",
+      "EPRINT_OPENACCESS",
+      "ESOURCE",
+      "NOT REFEREED",
+      "OPENACCESS"
+    ]
+  }
+]

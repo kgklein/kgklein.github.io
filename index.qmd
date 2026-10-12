@@ -19,7 +19,7 @@ title-block-style: none
 University of Arizona  
 Lunar and Planetary Laboratory
 
-[GitHub](https://github.com/kgklein) · [ORCID](https://orcid.org/0000-0001-6038-1923)
+[GitHub](https://github.com/kgklein) · [ORCID](https://orcid.org/0000-0001-6038-1923) · [C.V.]((documents/Klein_CV.pdf))
 
 [NASA ADS](https://ui.adsabs.harvard.edu/) · [LPL Profile](https://lpl.arizona.edu/faculty/kristopher-klein)
 

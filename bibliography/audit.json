@@ -1,0 +1,18 @@
+{
+  "query": "orcid:0000-0001-6038-1923",
+  "raw": 288,
+  "journal_included": 160,
+  "preprints_pending_review": 11,
+  "other_excluded": 115,
+  "duplicates_excluded": [
+    [
+      "2024esoar.38785575K",
+      "matches refereed publication"
+    ],
+    [
+      "2019arXiv190802206V",
+      "matches refereed publication"
+    ]
+  ],
+  "suppress_count": 0
+}

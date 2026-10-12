@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-cd ~/Codes/kgklein-site-starter
+cd ~/Codes/kgklein.github.io
 
 echo "Rendering website..."
 quarto render
