@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+UNDER CONSTRUCTION
+
+My research investigates the physical processes that govern energy transfer and particle energization in weakly collisional plasmas. The solar wind provides an extraordinary laboratory for this work: spacecraft observations can be compared directly against predictions from plasma theory and numerical simulations.
+
+## Turbulence and plasma heating
+
+How does turbulent energy move across scales, and which processes ultimately heat particles? We study turbulent cascades, intermittency, kinetic-scale fluctuations, and the connections between spatial structure and energy dissipation.
+
+## Kinetic plasma physics
+
+Space plasmas often depart strongly from local thermodynamic equilibrium. We investigate how non-Maxwellian particle velocity distributions influence wave propagation, kinetic instabilities, and wave–particle energy exchange. Numerical dispersion tools and spacecraft measurements provide complementary constraints.
+
+## Multi-spacecraft measurements and heliophysics missions
+
+Multi-point observations open new ways to distinguish spatial from temporal variability, measure turbulent structure, and reconstruct plasma gradients. I am Deputy Principal Investigator of NASA's HelioSwarm mission and contribute to the Parker Solar Probe SWEAP investigation.
+
+*Planned additions:* a mission image, one representative turbulence figure, and links to selected project papers.

@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+UNDER CONSTRUCTION
+
+For an up-to-date list of papers and citation information, see my [NASA ADS bibliography](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6038-1923) and [ORCID profile](https://orcid.org/0000-0001-6038-1923).
+
+## Selected publications
+
+The initial version of this page deliberately links to external bibliographic records rather than reproducing an incomplete list. A curated selection of representative papers, with titles, coauthors, publication dates, and DOIs, will be added next.
+
+## Complete bibliography
+
+**Planned enhancement:** Generate the complete publication list from an exported NASA ADS BibTeX file. This can provide reverse-chronological sorting and consistent formatting without maintaining every entry by hand.

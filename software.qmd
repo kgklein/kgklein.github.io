@@ -1,0 +1,27 @@
+---
+title: "Software"
+---
+
+I develop and contribute to open-source tools for linear kinetic plasma physics, turbulence analysis, and multi-spacecraft measurements.
+
+## PLUME
+
+**Plasma in a Linear Uniform Magnetized Environment** is a numerical solver for the Vlasov–Maxwell dispersion relation in hot magnetized plasmas. It supports multiple drifting bi-Maxwellian plasma components and arbitrary wave propagation directions.
+
+[Source code and documentation](https://github.com/kgklein/PLUME) · [Software DOI](https://doi.org/10.5281/zenodo.15215514)
+
+## ALPS
+
+**Arbitrary Linear Plasma Solver** is an open-source dispersion solver designed to investigate wave behavior and kinetic stability for general gyrotropic velocity distributions.
+
+[Source code and documentation](https://danielver02.github.io/) · [Software DOI](https://doi.org/10.5281/zenodo.17477418)
+
+## HelioSwarm Observatory
+
+Tools for generating, analyzing, visualizing, and reproducing synthetic multi-spacecraft plasma measurements in preparation for HelioSwarm science.
+
+[Documentation](https://kgklein.github.io/hs-observatory/)
+
+## Additional public repositories
+
+UNDER CONSTRUCTION

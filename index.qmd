@@ -1,0 +1,55 @@
+
+---
+title: "Kristopher G. Klein"
+title-block-banner: false
+title-block-style: none
+---
+
+::: {.content-container}
+
+:::: {.columns}
+
+::: {.column width="35%"}
+
+![](images/profile.jpg){width=85%}
+
+### Kristopher G. Klein
+
+**Associate Professor**  
+University of Arizona  
+Lunar and Planetary Laboratory
+
+[GitHub](https://github.com/kgklein) · [ORCID](https://orcid.org/0000-0001-6038-1923)
+
+[NASA ADS](https://ui.adsabs.harvard.edu/) · [LPL Profile](https://lpl.arizona.edu/faculty/kristopher-klein)
+
+:::
+
+::: {.column width="65%"}
+
+I am a space plasma physicist studying how energy is transferred, redistributed, and dissipated in weakly collisional plasmas. My research focuses on the solar wind and other space and astrophysical environments.
+
+I combine analytical theory, numerical modeling, and spacecraft observations to investigate plasma turbulence, kinetic instabilities, and wave–particle interactions.
+
+I am Deputy Principal Investigator of NASA's **HelioSwarm** mission and Deputy Principal Investigator for the **SWEAP** investigation on **Parker Solar Probe**.
+
+## Research
+
+My research addresses three interconnected problems:
+
+- **Turbulence and plasma heating:** How does turbulent energy cascade through scales and ultimately heat particles?
+- **Kinetic plasma physics:** How do nonthermal particle distributions drive instabilities and exchange energy with plasma waves?
+- **Multi-spacecraft measurements:** How can simultaneous observations reconstruct the three-dimensional structure of turbulent plasmas?
+
+[Explore my research →](research.qmd)
+
+## Publications and Software
+
+My publications and open-source research tools are available here:
+
+[Publications](publications.qmd) · [Software](software.qmd)
+
+:::
+
+::::
+:::

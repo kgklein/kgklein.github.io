@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kristopher G. Klein"
+  site-url: https://kgklein.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+    right:
+      - icon: github
+        href: https://github.com/kgklein
+        aria-label: GitHub
+  page-footer:
+    center: "Kristopher G. Klein · University of Arizona"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
