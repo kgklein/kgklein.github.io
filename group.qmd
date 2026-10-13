@@ -54,7 +54,7 @@ Waverly investigates turbulent energy transfer and preferential particle heating
 Visiting Graduate Student, University College London (UCL)
 
 [Website](https://ranhao1999.github.io/)
-
+&nbsp;·&nbsp;
 <a href="https://orcid.org/0000-0002-8234-6480"
    target="_blank" rel="noopener noreferrer" aria-label="Hao Ran ORCID">
   <i class="bi bi-orcid"></i> ORCID
