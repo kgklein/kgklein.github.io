@@ -1,0 +1,102 @@
+---
+title: "Teaching"
+---
+
+I teach undergraduate and graduate courses in planetary science and
+space plasma physics at the University of Arizona. My teaching emphasizes
+the physical principles governing planetary systems, from the formation
+of habitable worlds to the dynamics of plasmas in the heliosphere and
+planetary magnetospheres.
+
+## Graduate Courses
+
+### PTYS 505A — Principles of Planetary Physics
+
+**Most recently taught:** Fall 2026  
+**Previous offerings:** Fall 2022, Spring 2025
+
+An introduction to the physics of planetary and interplanetary gases,
+fluids, and plasmas.
+
+The course develops a foundation in the physical processes governing
+planetary atmospheres, space environments, and astrophysical plasmas,
+with an emphasis on analytical problem solving and the connections
+between fundamental theory and observations.
+
+**Topics include:**
+
+- Thermodynamics, kinetic theory, and collisional processes
+- Fluid dynamics and atmospheric structure
+- Hydrodynamic stability and turbulence
+- Single-particle motion in electromagnetic fields
+- Plasma waves and magnetohydrodynamics
+
+### PTYS 424/524 — Magnetospheric Structures and Processes
+
+**Scheduled:** Fall 2027
+
+This course presents an introduction to the physics of magnetospheres, including basic structures and dynamics, along with comparisons between magnetospheres in our solar wind system and those hypothesized in exoplanetary systems.
+The semester will be divided into three sections"
+
+1) **Foundations of Plasma Physics in Magnetospheres**, covering particle drifts, adiabatic invariants, magnetohydrodynamics, dynamos, and particle acceleration.
+2) **Magnetospheres of Solar System Planets**, comparing the intrinsic and induced magnetospheres in our solar system and the methods we have for measuring and modeling them.
+3) **Exoplanetary Magnetospheres and Star–Planet Interactions**, focusing on what we know about general stellar-planetary interactions and the impact of stellar winds on planetary atmosphere and habitability.
+
+### PTYS 414/514 — Introduction to Plasma Physics
+
+**Taught:** Spring 2022
+
+The purpose of this course is to present an introduction to the physics of plasmas.
+Topics include fundamental plasma scales and interactions, single particle motion, magnetohydrodynamic and fluid models, linear waves, kinetic theory, plasma stability, magnetic reconnection, and non-linear processes.
+The roles of these processes are considered in a variety of systems, including the Sun and stars, their extended atmospheres, planetary magnetospheres, and laboratory devices.
+The emphasis throughout will be on basic physical processes and the various approximations used in their application to realistic and relevant problems.
+
+
+### PTYS 537 — The Physics of the Sun
+
+**Taught:** Fall 2020
+
+This course presents an introduction to the physics of the Sun.
+Topics include the physics of solar magnetic fields, solar interior and helioseismology, radiative transfer, solar wind, and solar-energetic particles.
+This course introduces the equations of magnetohydrodynamics and applies them to important solar-physics problems.
+Examples include: the solar dynamo, the physics of sunspots and flares, origin of the solar wind, and the structure of the solar atmosphere.
+The emphasis throughout will be on basic physical processes and the various approximations used in their application to realistic and relevant problems. 
+
+
+## Undergraduate Courses
+
+### PTYS 206 — Exploring Our Solar System
+
+**Taught:** Fall 2023
+
+Our Solar System is filled with an incredible diversity of objects. These include the sun and planets, of course, but also many hundreds of moons -- some with exotic oceans, erupting volcanoes, or dynamic atmospheres. Billions of asteroids and comets inhabit the space between and beyond the planets. 
+Each body is unique, and has followed its own evolutionary history. 
+This class will explore our current understanding of the Solar System and emphasize similarities that unite the different bodies as well as the differences between them. 
+We will develop an understanding of physical processes that occur on these bodies, including tectonics, impact cratering, volcanism, and processes operating in their interiors, oceans, and atmospheres. We will also discuss planets around nearby stars and the potential for life beyond Earth. 
+Throughout the class, we will highlight the leading role that the University of Arizona has played in exploring our Solar System.
+
+### PTYS 170A1 — Earth: The Formation of Habitable Worlds
+
+**Taught:** Fall 2019, Spring 2020, Fall 2021
+
+Thousands of planets have been discovered orbiting nearby stars. How many of these worlds can we expect to be Earth-like? 
+We explore this question from the perspective of astronomers, geologists, and historians. 
+We look back at Earth's geologic history to periods when our planet itself would appear very alien to us today. We study the nearby planets Venus and Mars, which were once more Earth-like than today. 
+We discuss not only the evolution of Earth, Venus, and Mars as habitable worlds but also how human understanding of these planets has evolved. 
+Finally, we apply these perspectives to the search for alien Earths in our galaxy. 
+This interdisciplinary treatment of Earth, its neighboring planets, and planets being discovered around nearby stars allows us to consider the potentially unique position of Earth as a habitable world not only in space but in time.
+
+## Teaching History
+
+| Semester | Course | Title |
+|---|---|---|
+| Fall 2027 (scheduled) | PTYS 424/524 | Magnetospheric Structures and Processes |
+| Fall 2026 | PTYS 505A | Principles of Planetary Physics |
+| Spring 2025 | PTYS 505A | Principles of Planetary Physics |
+| Fall 2023 | PTYS 206 | Exploring Our Solar System |
+| Fall 2022 | PTYS 505A | Principles of Planetary Physics |
+| Spring 2022 | PTYS 414/514 | Introduction to Plasma Physics |
+| Fall 2021 | PTYS 170A1 | Earth: The Formation of Habitable Worlds |
+| Fall 2020 | PTYS 537 | The Physics of the Sun |
+| Spring 2020 | PTYS 170A1 | Earth: The Formation of Habitable Worlds |
+| Fall 2019 | PTYS 170A1 | Earth: The Formation of Habitable Worlds |

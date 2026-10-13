@@ -21,7 +21,7 @@ Lunar and Planetary Laboratory
 
 [GitHub](https://github.com/kgklein) · [ORCID](https://orcid.org/0000-0001-6038-1923) · [C.V.]((documents/Klein_CV.pdf))
 
-[NASA ADS](https://ui.adsabs.harvard.edu/) · [LPL Profile](https://lpl.arizona.edu/faculty/kristopher-klein)
+[SciX](https://scixplorer.org/search?p=1&q=orcid%3A0000-0001-6038-1923&sort=date+desc&d=general) · [LPL Profile](https://lpl.arizona.edu/faculty/kristopher-klein)
 
 :::
 

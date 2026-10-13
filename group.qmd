@@ -1,0 +1,130 @@
+
+---
+title: "Research Group"
+---
+
+Our research group at the University of Arizona studies the physics of
+weakly collisional plasmas, with an emphasis on turbulence, kinetic
+instabilities, and wave–particle interactions in the solar wind and
+other space and astrophysical environments.
+
+We combine theoretical modeling, numerical simulations, and spacecraft
+observations to understand how energy is transferred between fields
+and particles.
+
+## Current Group Members
+
+### Research Faculty
+
+**Mihailo Martinović**  
+Research Faculty
+
+<a href="https://orcid.org/0000-0002-7365-0472"
+   target="_blank" rel="noopener noreferrer" aria-label="Mihailo Martinović ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Mihailo studies kinetic processes in the solar wind, including ion-driven instabilities, stochastic heating, and the evolution of nonthermal particle distributions. His research combines spacecraft observations from Parker Solar Probe, Solar Orbiter, and Wind with theoretical modeling to investigate plasma stability, turbulence, and wave–particle energy exchange
+
+### Graduate Students
+
+**Thomas Flint**  
+Graduate Student
+
+<a href="https://orcid.org/0009-0000-5123-5529"
+   target="_blank" rel="noopener noreferrer" aria-label="Thomas Flint ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Thomas is a graduate student in Planetary Sciences working in theoretical and computational space plasma physics. His initial project focuses on the modification of the turbulent cascade due to compressibility in the inner heliosphere.
+
+**Waverly Gorman**  
+Graduate Student
+
+<a href="https://orcid.org/0009-0009-6369-7267"
+   target="_blank" rel="noopener noreferrer" aria-label="Waverly Gorman ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Waverly investigates turbulent energy transfer and preferential particle heating in weakly collisional plasmas. Her research explores nonlocal interactions in Alfvénic turbulence and their implications for the distribution of energy between particle species, particularly in high-beta plasma environments.
+
+### Visiting Students
+
+**Hao Ran**  
+Visiting Graduate Student, University College London (UCL)
+
+<a href="https://orcid.org/0000-0002-8234-6480"
+   target="_blank" rel="noopener noreferrer" aria-label="Hao Ran ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Hao studies kinetic plasma waves and the influence of non-Maxwellian velocity distributions on wave damping and instability in the solar wind. His recent research uses Solar Orbiter observations and kinetic dispersion analysis to investigate ion-acoustic waves and their interactions with solar-wind particle populations.
+
+### Undergraduate Researchers
+
+**Rehman Amin**  
+Undergraduate Researcher
+
+## Group Alumni
+
+### Former Postdoctoral Researchers
+
+**Emily Lichko**
+
+<a href="https://orcid.org/0000-0003-1945-8460"
+   target="_blank" rel="noopener noreferrer" aria-label="Emily Lichko ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Dr. Lichko investigates collisionless plasma energization, kinetic instabilities, and the dynamics of magnetized plasmas using numerical simulations and theoretical models.
+Her research includes work on pressure-anisotropy-driven instabilities and the role of electrons in regulating the nonlinear evolution of plasma systems.
+She is currently a research physicist in the Plasma Physics Division of the U.S. Naval Research Laboratory.
+
+### Former Graduate Students
+
+**Teddy Broeren**
+
+<a href="https://github.com/broeren"
+   target="_blank" rel="noopener noreferrer" aria-label="Teddy Broeren GitHub">
+  <i class="bi bi-github"></i> GitHub
+</a>
+&nbsp;·&nbsp;
+<a href="https://orcid.org/0000-0002-2649-020X"
+   target="_blank" rel="noopener noreferrer" aria-label="Teddy Broeren ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Dr. Broeren research focused on the mathematical and computational analysis of plasma turbulence using multipoint spacecraft measurements.
+His work contributed to the development and assessment of analysis techniques for NASA's HelioSwarm mission, with an emphasis on extracting spatial information about turbulent fluctuations from distributed observations.
+
+**Niranjana Shankarappa**
+
+<a href="https://orcid.org/0000-0002-8941-3463"
+   target="_blank" rel="noopener noreferrer" aria-label="Niranjana Shankarappa ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Dr. Niranjana investigated collisionless plasma heating in the young solar wind using observations from Parker Solar Probe and kinetic theory.
+His research quantified proton and electron heating through Landau damping and explored the potential contribution of ion-cyclotron wave damping to the preferential heating of solar-wind ions.
+
+**Jada Walters**
+
+<a href="https://orcid.org/0000-0001-9717-8718"
+   target="_blank" rel="noopener noreferrer" aria-label="Jada Walters ORCID">
+  <i class="bi bi-orcid"></i> ORCID
+</a>
+
+Dr. Walters studied pressure-anisotropy-driven kinetic instabilities in solar and astrophysical plasmas using linear stability analysis and numerical simulations.
+Her research used the Gkeyll multifluid framework to investigate firehose instabilities, demonstrating how electron dynamics can influence instability saturation and particle energization.
+
+## Research Opportunities
+
+I welcome inquiries from prospective graduate students, undergraduate
+researchers, and postdoctoral scholars interested in space plasma
+physics, kinetic theory, turbulence, and spacecraft observations.
+
+For information about graduate study, visit the
+[University of Arizona Lunar and Planetary Laboratory](https://lpl.arizona.edu/).
+
+Prospective researchers are welcome to contact me through my
+[faculty profile](https://lpl.arizona.edu/faculty/kristopher-klein).
