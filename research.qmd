@@ -1,21 +1,117 @@
+
 ---
 title: "Research"
 ---
 
-UNDER CONSTRUCTION
+My research investigates the physical processes governing energy transfer
+and particle energization in weakly collisional plasmas. The solar wind
+provides an extraordinary natural laboratory for this work, allowing
+spacecraft observations to be compared directly with predictions from
+plasma theory and numerical simulations.
 
-My research investigates the physical processes that govern energy transfer and particle energization in weakly collisional plasmas. The solar wind provides an extraordinary laboratory for this work: spacecraft observations can be compared directly against predictions from plasma theory and numerical simulations.
+Our work combines analytical theory, numerical modeling, and observations
+from missions including Parker Solar Probe, Solar Orbiter, and Wind.
+Three interconnected areas form the foundation of this research.
 
 ## Turbulence and plasma heating
 
-How does turbulent energy move across scales, and which processes ultimately heat particles? We study turbulent cascades, intermittency, kinetic-scale fluctuations, and the connections between spatial structure and energy dissipation.
+How does turbulent energy move across scales, and which physical processes
+ultimately transfer that energy to particles?
+
+We study turbulent cascades, intermittency, kinetic-scale fluctuations,
+and the connections between spatial structure and collisionless energy
+transfer. A central objective is to identify the mechanisms responsible
+for plasma heating and determine how their relative importance changes
+across different plasma environments.
+
+### Highlighted publications
+
+**[Evidence for electron Landau damping in space plasma turbulence](https://doi.org/10.1038/s41467-019-08435-3)**  
+*Chen, Klein & Howes (2019), Nature Communications.*
+
+Using spacecraft measurements of electromagnetic fields and electron
+velocity distributions, we identified a velocity-space signature
+consistent with electron Landau damping in turbulent plasma. This
+demonstrates how field–particle correlations can directly constrain
+collisionless energy-transfer mechanisms in space plasmas.
+
+
+**[Mind the gap: non-local cascades and preferential heating in high-beta Alfvénic turbulence](https://doi.org/10.1093/mnrasl/slae018)**  
+*Gorman & Klein (2024), Monthly Notices of the Royal Astronomical Society: Letters.*
+
+We investigate how nonlocal interactions in Alfvénic turbulence
+influence the transfer of energy across scales and its redistribution
+between particle species. This work connects the properties of
+turbulent energy cascades to preferential heating in high-beta
+plasma environments.
 
 ## Kinetic plasma physics
 
-Space plasmas often depart strongly from local thermodynamic equilibrium. We investigate how non-Maxwellian particle velocity distributions influence wave propagation, kinetic instabilities, and wave–particle energy exchange. Numerical dispersion tools and spacecraft measurements provide complementary constraints.
+Space plasmas often depart strongly from local thermodynamic
+equilibrium, exhibiting temperature anisotropies, relative drifts,
+and non-Maxwellian particle velocity distributions.
+
+We investigate how these departures influence wave propagation,
+kinetic instabilities, and wave–particle energy exchange.
+Numerical dispersion tools and spacecraft measurements provide
+complementary constraints on the stability and evolution of
+collisionless plasmas.
+
+### Highlighted publications
+
+**[Majority of Solar Wind Intervals Support Ion-Driven Instabilities](https://doi.org/10.1103/PhysRevLett.121.045101)****  
+*Klein et al. (2018), Physical Review Letters.*
+
+By applying linear kinetic stability analysis to measured solar-wind
+ion distributions, we demonstrated that a majority of sampled
+intervals support ion-driven instabilities. This work established
+the importance of considering the combined effects of multiple
+ion populations, temperature anisotropies, and differential flows
+when assessing plasma stability.
+
+**[The dielectric response of plasmas with arbitrary gyrotropic
+velocity distributions](https://doi.org/10.1063/5.0286477)**  
+*Klein & Verscharen (2025), Physics of Plasmas.*
+
+We develop methods for evaluating the kinetic dielectric response
+of plasmas with arbitrary gyrotropic velocity distributions, including
+the treatment of resonances through analytic continuation.
+These advances expand the range of realistic particle distributions
+that can be investigated using numerical dispersion solvers such
+as ALPS.
 
 ## Multi-spacecraft measurements and heliophysics missions
 
-Multi-point observations open new ways to distinguish spatial from temporal variability, measure turbulent structure, and reconstruct plasma gradients. I am Deputy Principal Investigator of NASA's HelioSwarm mission and contribute to the Parker Solar Probe SWEAP investigation.
+Multi-point spacecraft observations provide new ways to distinguish
+spatial from temporal variability, characterize turbulent structure,
+and reconstruct gradients in evolving plasmas.
 
-*Planned additions:* a mission image, one representative turbulence figure, and links to selected project papers.
+I am Deputy Principal Investigator of NASA's HelioSwarm mission and
+Project Scientist for the SWEAP investigation aboard Parker Solar
+Probe. A central component of our work is developing and validating
+the measurement strategies and analysis methods needed to extract
+three-dimensional plasma physics from distributed spacecraft
+observations.
+
+### Highlighted publications
+
+**[HelioSwarm: A Multipoint, Multiscale Mission to Characterize
+Turbulence](https://doi.org/10.1007/s11214-023-01019-0)**  
+*Klein et al. (2023), Space Science Reviews.*
+
+We describe the scientific motivation and measurement strategy
+of NASA's nine-spacecraft HelioSwarm mission. By simultaneously
+sampling plasma fluctuations across multiple spatial separations,
+HelioSwarm will enable measurements of three-dimensional turbulent
+structure, intermittency, and multiscale energy transfer that are
+inaccessible to traditional single-spacecraft observations.
+
+
+**[Wave-Telescope Analysis for Multipoint Observatories: Impact of Timing and Spatial Uncertainties](https://doi.org/10.1029/2024JA033428)**  
+*Klein, Broeren, Roberts & Schulz (2024), Journal of Geophysical Research: Space Physics.*
+
+We investigate how spacecraft timing and position uncertainties
+affect the reconstruction of spatial fluctuations using multipoint
+wave-telescope analysis. This work helps establish the measurement
+accuracy and analysis requirements needed to recover reliable
+three-dimensional information from future multispacecraft missions.
